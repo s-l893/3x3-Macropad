@@ -1,5 +1,3 @@
-macropad-config-tool.html: Web-based front end application that allows easy changing of the keymap.c file, which contains the macros and key configurations that is flashed onto the Pro Micro to allow the 3x3 macropad to work. 
-update-keymap.bat: Windows batch tool that scans the user's downloads folder for any new keymap.c file, and relocates it to the folder that contains all the macropad firmware (macropad_v2). 
 
 # 3x3 Macropad with QMK
 
