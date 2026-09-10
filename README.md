@@ -24,22 +24,22 @@ A custom DIY 3x3 macropad built with a Pro Micro microcontroller running QMK fir
 
 ### Videos
 
-<img src="media/macropad/demo-1.gif" alt="Macropad demo 1" width="360" />
+<img src="media/demo-1.gif" alt="Macropad demo 1" width="360" />
 
-<img src="media/macropad/demo-2.gif" alt="Macropad demo 2" width="360" />
+<img src="media/demo-2.gif" alt="Macropad demo 2" width="360" />
 
 ### Photos
 
-<img src="media/macropad/assembled.jpeg" alt="Macropad assembled" width="360" />
-<img src="media/macropad/angle.jpeg" alt="Macropad angle view" width="360" />
+<img src="media/assembled.jpeg" alt="Macropad assembled" width="360" />
+<img src="media/angle.jpeg" alt="Macropad angle view" width="360" />
 
-<img src="media/macropad/internals.jpeg" alt="Macropad internals" width="360" />
-<img src="media/macropad/build-detail.jpeg" alt="Macropad build detail" width="360" />
+<img src="media/internals.jpeg" alt="Macropad internals" width="360" />
+<img src="media/build-detail.jpeg" alt="Macropad build detail" width="360" />
 
-<img src="media/macropad/pcb.png" alt="Macropad PCB design" width="360" />
-<img src="media/macropad/cad.png" alt="Macropad CAD enclosure" width="360" />
+<img src="media/pcb.png" alt="Macropad PCB design" width="360" />
+<img src="media/cad.png" alt="Macropad CAD enclosure" width="360" />
 
-<img src="media/macropad/firmware-ui.png" alt="Macropad firmware UI" width="360" />
+<img src="media/firmware-ui.png" alt="Macropad firmware UI" width="360" />
 
 ## Firmware Setup
 
